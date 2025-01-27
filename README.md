@@ -11,7 +11,7 @@ Follow these steps to set up and run the Zazoo app locally:
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone <repository_url>](https://github.com/Amin-bash/zazo-amin-mobile.git
+   git clone https://github.com/Amin-bash/zazo-amin-mobile.git
    ```
 
 2. Navigate to the project directory:
